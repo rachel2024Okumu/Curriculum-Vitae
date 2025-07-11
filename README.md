@@ -1,7 +1,8 @@
-## 🌐 Live Project
 
-[Click here to view the live site]( https://rachel2024okumu.github.io/Curriculum-Vitae/)
 # Curriculum-Vitae
 my CV
+## 🌐 Live Site
 
-"Add live project link to README".
+[Click here to view the live project](https://rachel2024okumu.github.io/Curriculum-Vitae/))
+
+Add live project link
