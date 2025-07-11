@@ -3,6 +3,6 @@
 my CV
 ## 🌐 Live Site
 
-[Click here to view the live project](https://rachel2024okumu.github.io/Curriculum-Vitae/))
+[Click here to view the live project](https://github.com/rachel2024Okumu/Curriculum-Vitae)
 
 Add live project link
