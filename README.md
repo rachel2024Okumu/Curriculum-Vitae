@@ -1,6 +1,9 @@
 
 # Curriculum-Vitae
-my CV
-## Live Project URL
+my CV 
+My CV is live here
 
-https://rachel2024okumu.github.io/Curriculum-Vitae/
+  https://rachel2024okumu.github.io/Curriculum-Vitae/
+  Add plain project URL
+  
+
