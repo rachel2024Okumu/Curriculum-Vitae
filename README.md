@@ -1,8 +1,8 @@
 
 # Curriculum-Vitae
 my CV
-## 🌐 Live Site
+## 🌐 Live Project URL
 
-[View my live CV here]( https://rachel2024okumu.github.io/Curriculum-Vitae/)
+[https://rachel2024okumu.github.io/Curriculum-Vitae/](https://rachel2024okumu.github.io/Curriculum-Vitae/)
 
-Add live project link
+Added live project URL to README
