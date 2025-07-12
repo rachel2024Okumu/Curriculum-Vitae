@@ -1,5 +1,5 @@
 
-# Curricul# Curriculum Vitae
+# Curriculum Vitae
 
 This is my personal CV project created for the course.
 
